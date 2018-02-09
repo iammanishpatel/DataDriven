@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12687" started-at="2018-02-09T08:08:52Z" finished-at="2018-02-09T08:09:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12687" started-at="2018-02-09T08:08:52Z" finished-at="2018-02-09T08:09:04Z">
+      <class name="com.qa.project.DataDriven.utility.DataDriven">
+        <test-method status="PASS" signature="begning()[pri:0, instance:com.qa.project.DataDriven.utility.DataDriven@26653222]" name="begning" is-config="true" duration-ms="6476" started-at="2018-02-09T13:38:52Z" finished-at="2018-02-09T13:38:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- begning -->
+        <test-method status="PASS" signature="translatorSetUp()[pri:1, instance:com.qa.project.DataDriven.utility.DataDriven@26653222]" name="translatorSetUp" duration-ms="628" started-at="2018-02-09T13:38:58Z" finished-at="2018-02-09T13:38:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- translatorSetUp -->
+        <test-method status="PASS" signature="readContent()[pri:2, instance:com.qa.project.DataDriven.utility.DataDriven@26653222]" name="readContent" duration-ms="5569" started-at="2018-02-09T13:38:59Z" finished-at="2018-02-09T13:39:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readContent -->
+        <test-method status="PASS" signature="end()[pri:0, instance:com.qa.project.DataDriven.utility.DataDriven@26653222]" name="end" is-config="true" duration-ms="0" started-at="2018-02-09T13:39:04Z" finished-at="2018-02-09T13:39:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- com.qa.project.DataDriven.utility.DataDriven -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
